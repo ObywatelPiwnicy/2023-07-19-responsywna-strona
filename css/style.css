@@ -1,0 +1,8 @@
+body{
+    max-width: 1920px;
+}
+
+section{
+    min-height: 100vh;
+    background-color: rosybrown;
+}
